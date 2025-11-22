@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     " Uhmm A Software Engineer!",
-  skills: ["C++", "React", "Node.js", "Python", "TalwindCss"],
+  skills: ["C++", "React", "Node.js", "Python", "TailwindCss"],
   projects: [
     {
       name: "Cooking...",

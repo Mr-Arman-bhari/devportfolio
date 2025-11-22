@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Armaan Bhari",
   title: "Software Engineer",
   description: "Portfolio website of Armaan Bhari",
-  accentColor: "#f76c6c",
+  accentColor: "#F76C6C",
   social: {
     email: "your-email@example.com",
     linkedin: "https://linkedin.com/in/yourprofile",

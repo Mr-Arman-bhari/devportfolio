@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Armaan Bhari",
-  title: "Software Engineer",
+  title: "Full-Stack Developer",
   description: "Portfolio website of Armaan Bhari",
   accentColor: "#F76C6C",
   social: {
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
-    " Uhmm A Software Engineer!",
+    " Uhmm A Full-Stack Developer!",
   skills: ["C++", "React", "Node.js", "Python", "TailwindCss"],
   projects: [
     {
